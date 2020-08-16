@@ -1,0 +1,3 @@
+graft China_Fintech_Project
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  China_Fintech_Project/jupy *
